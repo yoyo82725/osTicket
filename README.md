@@ -6,7 +6,7 @@
 <li>使用osTicket為底開發</li>
 <li>有統計圖表功能</li>
 <li>有罐頭回應功能</li>
-<li>客戶服務部經常使用</li>
+<li>客服部經常使用</li>
 </ul>
 ![image](https://raw.githubusercontent.com/yoyo82725/osTicket/master/osticket.JPG)
 ![image](https://raw.githubusercontent.com/yoyo82725/osTicket/master/osticket2.JPG)
